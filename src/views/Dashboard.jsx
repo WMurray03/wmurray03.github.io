@@ -221,7 +221,6 @@ function App() {
           </div> */}
         </div>
         <div id="topper" className="h-28 w-full"></div>
-        sadfadsasda
       </div>
 
       <div
@@ -238,7 +237,6 @@ function App() {
         id="skills"
       >
         <div id="topper" className="h-28 w-full"></div>
-        hekfaisdjaisdjasidajua
       </div>
 
       <div
@@ -247,7 +245,6 @@ function App() {
         id="contact"
       >
         <div id="topper" className="h-28 w-full"></div>
-        asdwasad
       </div>
     </div>
   );
